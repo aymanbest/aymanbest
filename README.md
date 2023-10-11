@@ -1,11 +1,11 @@
-# 👋 Hey there! I'm [Your Name], The Full Stack Maestro 🚀
+# 👋 Hey there! I'm Ayman FAIK, The Full Stack Maestro 🚀
 
 Welcome to my digital playground where the magic of coding meets the art of creativity. 👨‍💻✨
 
 ## About Me
 
 - 🧙‍♂️ Full Stack Developer with a passion for making the web a better place, one line of code at a time.
-- 💡 Turning caffeine into code since [2019].
+- 💡 Turning caffeine into code since 2019.
 - 🌐 Creating amazing web experiences from front-end finesse to back-end brilliance.
 - 🎨 Crafting beautiful user interfaces with HTML, CSS, and JavaScript.
 - 💻 Navigating server-side sorcery with PHP and databases.
