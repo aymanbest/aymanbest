@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ayman FAIK, The Full Stack Maestro 🚀
+# 👋 Hey there! I'm Ayman FAIK, 🚀
 
 Welcome to my digital playground where the magic of coding meets the art of creativity. 👨‍💻✨
 
