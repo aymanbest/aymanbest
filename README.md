@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymanbest&theme=monokai" alt="aymanbest" /></a> </p>
 
-- 🔭 I’m currently working on [CloudStream Plugin Provider](https://github.com/aymanbest/Arabico)
+- 🔭 I’m currently working on [CloudStream Plugin Providers](https://github.com/aymanbest/Arabico)
 - 🌱 I’m currently learning **Laravel**
 - 💬 Ask me about **JavaScript,React,PHP**
 - 📫 How to reach me **faikayman83@gmail.com**
