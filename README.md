@@ -4,10 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymanbest&theme=monokai" alt="aymanbest" /></a> </p>
 
-- 🔭 I’m currently working on [CloudStream Plugin Providers](https://github.com/aymanbest/Arabico)
-- 💬 Ask me about **JavaScript,React,PHP,Laravel**
+- 🔭 I’m currently learning **Java,SpringBoot**
 - 📫 How to reach me **faikayman83@gmail.com**
-- 👨‍💻 All of my projects are available at **https://aymanbytes.netlify.app/**
 - ⚡ Fun fact **I love Coffee**
 
 <div> <a href="https://github.com/aymanbest" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
